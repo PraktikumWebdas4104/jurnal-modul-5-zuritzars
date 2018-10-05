@@ -24,7 +24,7 @@
 </form>
 <?php
 	if (isset($_POST['submit'])) {
-		include 'regristrasi.php';
+		include 'prosesregris.php';
 	}
 
 ?>
